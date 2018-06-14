@@ -1,0 +1,3 @@
+(library
+  ((name test)
+   (public_name hello_world)))

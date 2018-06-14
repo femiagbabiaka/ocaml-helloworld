@@ -1,0 +1,16 @@
+lib: [
+  "_build/install/default/lib/hello_world/META" {"META"}
+  "_build/install/default/lib/hello_world/opam" {"opam"}
+  "_build/install/default/lib/hello_world/test.cmi" {"test.cmi"}
+  "_build/install/default/lib/hello_world/test.cmx" {"test.cmx"}
+  "_build/install/default/lib/hello_world/test.cmt" {"test.cmt"}
+  "_build/install/default/lib/hello_world/test.ml" {"test.ml"}
+  "_build/install/default/lib/hello_world/test.cma" {"test.cma"}
+  "_build/install/default/lib/hello_world/test.cmxa" {"test.cmxa"}
+  "_build/install/default/lib/hello_world/test.a" {"test.a"}
+  "_build/install/default/lib/hello_world/test.cmxs" {"test.cmxs"}
+  "_build/install/default/lib/hello_world/hello_world.dune" {"hello_world.dune"}
+]
+bin: [
+  "_build/install/default/bin/hello_world" {"hello_world"}
+]

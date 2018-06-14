@@ -1,0 +1,14 @@
+opam-version: "1.2"
+name: "test_signals"
+version: "0.0.1"
+maintainer: "Femi Agbabiaka <femi@femiagbabiaka.xyz>"
+authors: [ "Femi Agbabiaka <femi@femiagbabiaka.xyz>" ]
+license: "MIT"
+homepage: ""
+doc: ""
+bug-reports: ""
+dev-repo: ""
+tags: []
+build: [
+  ["jbuilder" "build" "--only" "test_signals" "--root" "." "-j" jobs "@install"]
+]
